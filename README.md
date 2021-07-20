@@ -4,5 +4,5 @@ Em um pipeline de bioinformática com o foco em RNA-seq, a primeira etapa a ser 
 
 Confira neste repositório as principais ferramentas utilizadas para o controle de qualidade de RNA-seq.
 
-Dúviddas ou sugestões, entre em contato:
+Dúvidas ou sugestões, entre em contato:
 e-mail: jean.souza@edu.unipar.br
