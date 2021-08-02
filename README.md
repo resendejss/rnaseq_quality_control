@@ -1,7 +1,7 @@
-# Controle de qualidade para dados de RNA-seq
+# Quality control for RNA-seq data
 
-Em um pipeline de bioinformática com o foco em RNA-seq, a primeira etapa a ser feita é a avaliação da qualidade dos dados brutos [Sheng et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27687708/). Dependendo da qualidade destes dados, é necerssário filtrá-los, afim de remover sequências ou nucleotídeos de baixa qualidade, adaptadores, sequências super-representadas garantindo um resultado final mais confiável.
+In a bioinformatics pipeline with a focus on RNA-seq, the first step to be done is the assessment of raw data quality [Sheng et al., 2016](https://pubmed.ncbi.nlm.nih.gov/27687708/). Depending on the quality of these data, it is necessary to filter them in order to remove low quality sequences or nucleotides, adapters, over-represented sequences ensuring a more reliable final result.
 
-Confira neste repositório as principais ferramentas utilizadas para o controle de qualidade de RNA-seq.
+Check the main tools used for RNA-seq quality control in this repository.
 
-Dúvidas ou sugestões, entre em contato: jean.souza@edu.unipar.br
+Questions or suggestions, please contact: jean.souza@edu.unipar.br
