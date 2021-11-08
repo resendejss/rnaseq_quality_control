@@ -1,5 +1,5 @@
 ---
-title: "**QUALITY CONTROL OF FASTQ FILES**"
+title: "**QUALITY CONTROL OF FASTQ FILES - FastQ e MultiQC**"
 output: pdf_document
 ---
 
